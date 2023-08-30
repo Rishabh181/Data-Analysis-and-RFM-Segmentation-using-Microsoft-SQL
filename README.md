@@ -1,0 +1,1 @@
+# Data-Analysis-and-RFM-Segmentation-using-Microsoft-SQL
